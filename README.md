@@ -1,4 +1,4 @@
-
+![Homepage Screenshot](home_page.png)
 ## ✨ Features
 
 * 📱 **Fully Responsive** – Works on desktop, tablet, and mobile
@@ -18,6 +18,7 @@
 ## 🚀 Getting Started
 
 ### Clone the repo
+
 
 
 
