@@ -1,7 +1,4 @@
 
-
-A responsive hotel website built with modern web technologies. It showcases the RayalPark hotel with booking, services, and gallery sections, providing an elegant user experience across devices.
-
 ## ✨ Features
 
 * 📱 **Fully Responsive** – Works on desktop, tablet, and mobile
@@ -21,6 +18,7 @@ A responsive hotel website built with modern web technologies. It showcases the 
 ## 🚀 Getting Started
 
 ### Clone the repo
+
 
 
 
