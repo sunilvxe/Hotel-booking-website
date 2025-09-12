@@ -10,14 +10,15 @@
 
 ## 🛠️ Tech Stack
 
-* **HTML5** – Structure
-* **CSS3** – Styling and animations
-* **JavaScript (Vanilla)** – Interactivity
+* **HTML** – Structure
+* **CSS** – Styling and animations
+* **JavaScript** – Interactivity
 * *(Optional)* TailwindCSS / Bootstrap if you integrated them
 
 ## 🚀 Getting Started
 
 ### Clone the repo
+
 
 
 
