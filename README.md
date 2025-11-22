@@ -13,11 +13,11 @@
 * **HTML** – Structure
 * **CSS** – Styling and animations
 * **JavaScript** – Interactivity
-* *(Optional)* TailwindCSS / Bootstrap if you integrated them
 
 ## 🚀 Getting Started
 
 ### Clone the repo
+
 
 
 
